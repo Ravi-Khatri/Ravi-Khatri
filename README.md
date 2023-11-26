@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ravi-Khatri
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning React FrameWork And various Data Strucher and Algorithms.
-- 💞️ I’m looking forward to contribute in web app development using react.
+- 🌱 I’m currently learning React FrameWork And various Data Structures and Algorithms.
+- 💞️ I’m looking forward to contribute in web app development.
 - 📫 You can reach out to me via email :khatriravi75@gmail.com 
 - linkedin: https://www.linkedin.com/in/khatri-ravi/
 
